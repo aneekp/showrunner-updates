@@ -1,5 +1,5 @@
    {
-     "version": "1.2.0",
-     "url": "<https://github.com/aneekp/showrunner-updates/releases/download/v1.2.0/Showrunner-mac-arm64.3.zip>",
+     "version": "v1.3.2",
+     "url": "<https://github.com/aneekp/showrunner-updates/releases/download/v1.3.2/Showrunner-mac-arm64.zip>",
      "notes": "Hour:minute durations, inline Cue Specs, cue sheet CSV/PDF export, comment preview on tiles"
    }
